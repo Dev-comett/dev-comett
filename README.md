@@ -8,11 +8,7 @@
 
 ### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/9oYsl9qV40kD64heTY/giphy.gif" width="350" height="200" alt="Devansh GIF"/>
-</p>
-
-Hey, I'm **Devansh**! I’m passionate about building simple, yet impactful solutions using **AI**, **ML**, and **Automation**. I specialize in **Python**, **C++**, and web development. I aim to keep things clean and straightforward, focusing on functionality rather than complexity. 
+Hey, I'm **Devansh**! I’m focused on building simple, yet impactful solutions using **AI**, **ML**, and **Automation**. I specialize in **Python**, **C++**, and web development. I aim to keep things clean and straightforward, focusing on functionality rather than complexity. 
 
 - 🤖 **Gesture-Controlled Robot Car** for landmine detection  
 - 🔍 **Malicious URL Scanner** using APIs (Streamlit + VirusTotal + Google Safe Browsing)  
@@ -55,10 +51,6 @@ Hey, I'm **Devansh**! I’m passionate about building simple, yet impactful solu
 
 ### 🎯 Currently Learning
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26FL8sdi9iUInOMoY/giphy.gif" width="300" height="200" alt="Learning GIF"/>
-</p>
-
 - Advanced **DSA** and **System Design**
 - Exploring **AI/ML Algorithms**
 - Building **Automation Tools** with Python
@@ -84,7 +76,7 @@ Hey, I'm **Devansh**! I’m passionate about building simple, yet impactful solu
 ### 🐍 GitHub Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devanshmishra/devanshmishra/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/devanshmishra/devanshmishra/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
