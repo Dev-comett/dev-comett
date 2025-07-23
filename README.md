@@ -18,9 +18,9 @@ I’m a software developer with experience in **Python**, **C++**, and web devel
 ## Skills
 
 - **Languages**: Python, C++, SQL
-- **Frameworks**: Streamlit, Flask, TensorFlow
+- **Frameworks**: Streamlit, FastAPI
 - **Databases**: MySQL, Firebase
-- **Tools**: Git, Docker, Arduino
+- **Tools**: Git, Docker
 
 ## Get in Touch
 
