@@ -1,6 +1,6 @@
 <!-- README.md for GitHub profile: dev-comett -->
 
-<h1 align="center">Devansh Mishra</h1>
+<h1 align="center">Devansh  Mishra</h1>
 <h3 align="center">DevOps Engineer • Cloud-Native Infrastructure • Kubernetes • DevSecOps • AI Automation</h3>
 
 <p align="center">
@@ -133,6 +133,4 @@ Kubernetes reliability engineering • GitOps platform development • AI-driven
 
 ---
 
-*Notes & tips*  
-- Place this file in a repository named `dev-comett` to enable GitHub profile rendering.  
-- To display GitHub stats properly, ensure `github-readme-stats` and streak services are accessible; you can customize `theme` or `hide` parameters in the image URLs if needed.
+
