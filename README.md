@@ -293,8 +293,7 @@ status:       [██████████████] OPERATIONAL
       └── Outcome: FINALIST  · 2023
 
 [IBM Project Contest]
-  └── BUILT & SHIPPED → Cloud Storage (202
-4) & ToolsHub (2025)
+  └── BUILT & SHIPPED → Cloud Storage (2024) & ToolsHub (2025)
       └── Outcome: WINNER  · 2024 & 2025  (back-to-back)
 ```
 
