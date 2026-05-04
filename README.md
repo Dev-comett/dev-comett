@@ -15,7 +15,7 @@
 <br/>
 
 <!-- Status Banner -->
-<a href="https://cal.com/YOUR-CAL-SLUG">
+<a href="https://cal.com/devansh">
   <img src="https://img.shields.io/badge/STATUS-%E2%97%8F_ACCEPTING_CLIENTS-00FF41?style=for-the-badge&labelColor=000000" />
 </a>
 &nbsp;
