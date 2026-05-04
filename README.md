@@ -10,7 +10,20 @@
 ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Cloud+Native+%7C+DevSecOps;Kubernetes+%7C+Terraform+%7C+AWS+%7C+CI%2FCD;Automating+the+world%2C+one+pipeline+at+a+time...;%3E+sudo+deploy+--env+production+--force)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=780&lines=DevOps+%7C+DevSecOps+%7C+AI-Automation+Engineer;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+AWS+%E2%80%A2+CI%2FCD+%E2%80%A2+LLMs;I+ship+production-grade+systems+%E2%80%94+solo;%3E+sudo+./hire-me.sh+--mode+freelance)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Status Banner -->
+<a href="https://cal.com/YOUR-CAL-SLUG">
+  <img src="https://img.shields.io/badge/STATUS-%E2%97%8F_ACCEPTING_CLIENTS-00FF41?style=for-the-badge&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://cal.com/YOUR-CAL-SLUG">
+  <img src="https://img.shields.io/badge/%F0%9F%93%85_BOOK_A_CALL-15_min_intro-00FF41?style=for-the-badge&labelColor=000000" />
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=dev-comett&style=for-the-badge&color=00FF41&labelColor=000000&label=PROFILE+VIEWS" />
 &nbsp;
@@ -27,19 +40,65 @@
 ## `> whoami`
 
 ```yaml
-name:     Devansh Mishra
-alias:    dev-comett
-role:     DevOps Engineer
-location: India 🇮🇳
+name:        Devansh Mishra
+alias:       dev-comett
+role:        DevOps Engineer · DevSecOps · AI-Automation
+location:    Noida, India 🇮🇳
+education:   B.Tech CSE — Teerthanker Mahaveer University (2021–2025)
+engagement:  Freelance · Remote · Async-friendly
 focus:
-  - Cloud-Native Infrastructure
-  - DevSecOps Automation
-  - Kubernetes at Scale
-  - AI-Assisted IaC Pipelines
-status:   [████████████░░] DEPLOYING...
+  - Cloud-Native Infrastructure (AWS · GCP · Azure)
+  - DevSecOps Automation (CI/CD with security gates)
+  - Kubernetes at Scale (EKS · Helm · ArgoCD)
+  - AI-Augmented IaC & Agentic Workflows
+availability: ACCEPTING_CLIENTS
+status:       [██████████████] OPERATIONAL
 ```
 
 <br clear="right"/>
+
+---
+
+## `> systemctl status freelance.service`
+
+```bash
+● freelance.service — Devansh Mishra · Solo Engineering Practice
+   Loaded: loaded (/etc/freelance/devansh.conf; enabled)
+   Active: active (accepting clients) since [now]
+   Mode:   Remote · Async-friendly · Fixed-price or Retainer
+```
+
+### `> services --available`
+
+| | Service | Typical engagement |
+|---|---|---|
+| 🛠 | **Production-grade internal tools & dashboards** (Next.js + AWS) | 1–3 weeks, fixed-price |
+| 🤖 | **AI-augmented automation** (LLM workflows, agentic pipelines, Temporal) | Project or retainer |
+| 🔒 | **DevSecOps CI/CD pipelines** (GitHub Actions / Jenkins, Trivy, SonarQube, Terrascan) | Project or retainer |
+| ☁ | **Cloud infrastructure** (AWS EKS, Terraform, Helm, ArgoCD GitOps) | Project or retainer |
+| 📊 | **Observability stacks** (Prometheus + Grafana, SLO dashboards) | Add-on or standalone |
+
+### `> tz --overlap`
+
+```
+[*] US Eastern   →  19:00–23:00 IST  ⇄  09:30–13:30 EST
+[*] UK / Europe  →  14:00–22:00 IST  ⇄  08:30–16:30 GMT
+[*] UAE / Gulf   →  11:30–22:00 IST  ⇄  10:00–20:30 GST
+```
+
+> 📅 **[Book a 15-min intro call → cal.com/YOUR-CAL-SLUG](https://cal.com/YOUR-CAL-SLUG)**
+
+---
+
+## `> cat ./featured/toolshub.md`
+
+<a href="https://github.com/Dev-comett/ToolsHub-v2-Showcase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-comett&repo=ToolsHub-v2-Showcase&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+</a>
+
+**ToolsHub** — Production-grade multi-API dashboard. Solo build. Showcases SSRF-safe scraping, server-side API key isolation, edge caching, strict TS end-to-end. Live demo + full architecture writeup in the repo.
+
+> 🔗 **[Live Demo](https://toolshub-eta.vercel.app/)** · **[Case Study & Architecture →](https://github.com/Dev-comett/ToolsHub-v2-Showcase)**
 
 ---
 
@@ -75,8 +134,16 @@ status:   [████████████░░] DEPLOYING...
 <p>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Terrascan-2C3E50?style=for-the-badge&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/ISC2_CC-006400?style=for-the-badge&logo=isc2&logoColor=00FF41&labelColor=0d1117"/>
+</p>
+
+### 🤖 AI / Automation
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Agentic_Workflows-FF6F00?style=for-the-badge&logoColor=00FF41&labelColor=0d1117"/>
 </p>
 
 ### 📊 Observability
@@ -90,10 +157,10 @@ status:   [████████████░░] DEPLOYING...
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=0d1117"/>
 </p>
 
 ---
@@ -101,7 +168,32 @@ status:   [████████████░░] DEPLOYING...
 ## `> ls -la ./projects/`
 
 <details>
-<summary><b>🔴 [CLASSIFIED] Production-Grade DevSecOps CI/CD Pipeline — AWS EKS</b></summary>
+<summary><b>🟢 [LIVE] ToolsHub — Production-Grade Multi-API Dashboard</b></summary>
+<br>
+
+```
+> Booting Next.js 14 app...
+> Server-side API key vault.........[ISOLATED ✓]
+> SSRF guard on outbound fetch......[ARMED ✓]
+> Edge cache layer..................[ACTIVE ✓]
+> Live deploy.......................[https://toolshub-eta.vercel.app]
+```
+
+**Mission:** A unified web dashboard (weather · news · scraping · AI · finance) shipped solo with production-grade security and infra discipline.
+
+- 🔒 **Zero-leak API key architecture** — every external call proxied server-side
+- 🛡 **SSRF-safe scraping** — scheme + host validation pipeline
+- ⚡ **Edge-cached** for repeat-load performance & quota safety
+- 🔤 **Strict TypeScript** end-to-end · custom CSS-variable design system
+
+`Next.js 14` `TypeScript` `Tailwind` `Cheerio` `Vercel Edge` `DevSecOps`
+
+🔗 **[Live Demo](https://toolshub-eta.vercel.app/)** · **[Case Study Repo →](https://github.com/Dev-comett/ToolsHub-v2-Showcase)**
+
+</details>
+
+<details>
+<summary><b>🔴 [PRODUCTION] DevSecOps CI/CD Pipeline — AWS EKS · MERN Stack</b></summary>
 <br>
 
 ```
@@ -116,7 +208,7 @@ status:   [████████████░░] DEPLOYING...
 - 🚀 **90%+ CI/CD automation** via GitOps with ArgoCD
 - 🔒 **Multi-layer security gates** — SonarQube, OWASP, Trivy pre-production
 - 📉 **~80% reduction** in deployment effort
-- 🛡️ Managed Kubernetes workloads with Prometheus + Grafana observability
+- 🛡 Managed Kubernetes workloads with Prometheus + Grafana observability
 
 `AWS EKS` `Jenkins` `Docker` `ArgoCD` `Helm` `SonarQube` `Trivy` `Prometheus` `Grafana` `Redis`
 
@@ -166,36 +258,53 @@ status:   [████████████░░] DEPLOYING...
 
 ---
 
-## `> cat experience.log`
+## `> cat ./track-record/`
+
+> _Products I've built — and the people who put them through hell before saying yes._
+
+### 🛰 Built for real teams
 
 ```bash
-[Jul 2025 – Oct 2025] SWE Intern @ National Technical Research Organisation (NTRO)
-  ├── Automated pipelines: 5,000+ records/day processed
-  ├── Manual ops reduced:  ~80%
-  ├── System reliability:  >99%
-  └── CI/CD improvements: +50% deployment reliability
+[NTRO · National Technical Research Organisation, New Delhi]
+  └── BUILT → Internal data-discovery portal + CI/CD on GitHub Actions
+      ├── Throughput:        5,000+ records/day processed
+      ├── Manual ops cut:    ~80%
+      ├── System reliability: >99%
+      └── Deploy reliability: +50% via CI/CD hardening
 
-[Jun 2024 – Jul 2024] SWE Intern @ Physics Wallah
-  ├── Real-time URL security scanner: ~500 req/day
-  ├── APIs integrated: VirusTotal, Google Safe Browsing
-  ├── Manual effort reduced: ~40%
-  └── Interface: Streamlit-based automation dashboard
+[Physics Wallah, Noida]
+  └── BUILT → Real-time URL threat-detection pipeline + Streamlit dashboard
+      ├── Throughput:           ~500 req/day live scanning
+      ├── Threat intel sources: VirusTotal · Google Safe Browsing
+      ├── Manual review cut:    ~40%
+      └── Outcome: shipped end-to-end, used by ops team
 ```
 
----
+### 🏆 Products selected & awarded at national-level contests
 
-## `> sudo cat /root/achievements.txt`
+```bash
+[Smart India Hackathon — Government of India]
+  └── BUILT & PITCHED → [your project name]
+      └── Outcome: GRAND FINALIST  · 2022 & 2024
+          (top tier — selected from 200,000+ student submissions)
+
+[Yukti Innovation Challenge — Ministry of Education / AICTE]
+  └── BUILT & PITCHED → [your project name]
+      └── Outcome: FINALIST  · 2023
+
+[IBM Project Contest]
+  └── BUILT & SHIPPED → [your project name]
+      └── Outcome: WINNER  · 2024 & 2025  (back-to-back)
+```
+
+> Five competitive selections. Three wins. Every one was a real shipped product, not a slide deck.
+
+### 📜 Certifications
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  🏆 Smart India Hackathon  — Grand Finalist  [ 2022 & 2024 ] ║
-║  🥈 Yukti Innovation Challenge — Finalist    [ 2023 ]        ║
-║  🥇 IBM Project Contest    — WINNER          [ 2024 & 2025 ] ║
-╠══════════════════════════════════════════════════════════╣
-║  📜 NPTEL — Google Cloud Platform Foundations               ║
-║  📜 ISC2  — Certified in Cybersecurity (CC)                 ║
-║  📜 IBM   — Agile Methodology                               ║
-╚══════════════════════════════════════════════════════════╝
+NPTEL  →  Google Cloud Platform Foundations
+ISC2   →  Certified in Cybersecurity (CC)
+IBM    →  Agile Methodology
 ```
 
 ---
@@ -222,10 +331,13 @@ status:   [████████████░░] DEPLOYING...
 
 ```
 Pinging dev-comett [Matrix Node Active]...
-Reply from imdev411@gmail.com: bytes=32 time<1ms TTL=64
+Reply from cal.com/YOUR-CAL-SLUG: bytes=32 time<1ms TTL=64
+Reply from imdev411@gmail.com:    bytes=32 time<1ms TTL=64
 Reply from linkedin.com/in/dev-ice: bytes=32 time<1ms TTL=64
+Packets sent = 3, received = 3, lost = 0 (0% loss)
 ```
 
+[![Book a Call](https://img.shields.io/badge/%F0%9F%93%85_Book_a_Call-cal.com-00FF41?style=for-the-badge&labelColor=000000)](https://cal.com/YOUR-CAL-SLUG)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://linkedin.com/in/dev-ice)
 [![Email](https://img.shields.io/badge/Email-Contact-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:imdev411@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/dev-comett)
@@ -237,7 +349,7 @@ Reply from linkedin.com/in/dev-ice: bytes=32 time<1ms TTL=64
 <div align="center">
 
 ```
-> "The cloud is just someone else's computer. I make sure it doesn't fail."
+> "Most freelancers ship code. I ship the systems that keep it running."
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=000000"/>
