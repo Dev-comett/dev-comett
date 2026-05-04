@@ -15,11 +15,11 @@
 <br/>
 
 <!-- Status Banner -->
-<a href="https://cal.com/devansh">
+<a href="https://www.cal.eu/devansh">
   <img src="https://img.shields.io/badge/STATUS-%E2%97%8F_ACCEPTING_CLIENTS-00FF41?style=for-the-badge&labelColor=000000" />
 </a>
 &nbsp;
-<a href="https://cal.com/YOUR-CAL-SLUG">
+<a href="https://www.cal.eu/devansh">
   <img src="https://img.shields.io/badge/%F0%9F%93%85_BOOK_A_CALL-15_min_intro-00FF41?style=for-the-badge&labelColor=000000" />
 </a>
 
@@ -86,7 +86,7 @@ status:       [██████████████] OPERATIONAL
 [*] UAE / Gulf   →  11:30–22:00 IST  ⇄  10:00–20:30 GST
 ```
 
-> 📅 **[Book a 15-min intro call → cal.com/YOUR-CAL-SLUG](https://cal.com/YOUR-CAL-SLUG)**
+> 📅 **[Book a 15-min intro call → www.cal.eu/devansh](https://www.cal.eu/devansh)**
 
 ---
 
@@ -283,17 +283,18 @@ status:       [██████████████] OPERATIONAL
 ### 🏆 Products selected & awarded at national-level contests
 
 ```bash
-[Smart India Hackathon — Government of India]
-  └── BUILT & PITCHED → [your project name]
+[Smart India Hackathon — Government of India ]
+  └── BUILT & PITCHED → Smart Document Management (ICCR)  &  Centralized Product Search Web Portal (NTRO)
       └── Outcome: GRAND FINALIST  · 2022 & 2024
           (top tier — selected from 200,000+ student submissions)
 
 [Yukti Innovation Challenge — Ministry of Education / AICTE]
-  └── BUILT & PITCHED → [your project name]
+  └── BUILT & PITCHED → Autonumous Land Mine Detector
       └── Outcome: FINALIST  · 2023
 
 [IBM Project Contest]
-  └── BUILT & SHIPPED → [your project name]
+  └── BUILT & SHIPPED → Cloud Storage (202
+4) & ToolsHub (2025)
       └── Outcome: WINNER  · 2024 & 2025  (back-to-back)
 ```
 
@@ -302,9 +303,12 @@ status:       [██████████████] OPERATIONAL
 ### 📜 Certifications
 
 ```
-NPTEL  →  Google Cloud Platform Foundations
-ISC2   →  Certified in Cybersecurity (CC)
-IBM    →  Agile Methodology
+ISRO             →  Remote Sensing and Digital Image Analysis
+NPTEL            →  Google Cloud Platform Foundations
+ISC2             →  Certified in Cybersecurity (CC)
+Databricks       → Databricks Accredited Generative AI Fundamentals
+IBM              →  Agile Methodology
+Linux Foundation → DevOps and Site Reliability Engineering, GitOps
 ```
 
 ---
@@ -331,13 +335,13 @@ IBM    →  Agile Methodology
 
 ```
 Pinging dev-comett [Matrix Node Active]...
-Reply from cal.com/YOUR-CAL-SLUG: bytes=32 time<1ms TTL=64
+Reply from www.cal.eu/devansh:    bytes=32 time<1ms TTL=64
 Reply from imdev411@gmail.com:    bytes=32 time<1ms TTL=64
 Reply from linkedin.com/in/dev-ice: bytes=32 time<1ms TTL=64
 Packets sent = 3, received = 3, lost = 0 (0% loss)
 ```
 
-[![Book a Call](https://img.shields.io/badge/%F0%9F%93%85_Book_a_Call-cal.com-00FF41?style=for-the-badge&labelColor=000000)](https://cal.com/YOUR-CAL-SLUG)
+[![Book a Call](https://img.shields.io/badge/%F0%9F%93%85_Book_a_Call-cal.eu-00FF41?style=for-the-badge&labelColor=000000)](https://www.cal.eu/devansh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://linkedin.com/in/dev-ice)
 [![Email](https://img.shields.io/badge/Email-Contact-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:imdev411@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/dev-comett)
