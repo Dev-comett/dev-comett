@@ -43,8 +43,8 @@
 name:        Devansh Mishra
 alias:       dev-comett
 role:        DevOps Engineer · DevSecOps · AI-Automation
-location:    Noida, India 🇮🇳
-education:   B.Tech CSE — Teerthanker Mahaveer University (2021–2025)
+location:    Hyderabad, India 🇮🇳
+education:   B.Tech in CSE 
 engagement:  Freelance · Remote · Async-friendly
 focus:
   - Cloud-Native Infrastructure (AWS · GCP · Azure)
